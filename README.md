@@ -10,10 +10,12 @@ Solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
