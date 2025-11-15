@@ -2,7 +2,6 @@ class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
 
         List<List<Integer>> result = new ArrayList<>();
-
         List<Integer> subset = new ArrayList<>();
         Arrays.sort(nums);
         backtrack(nums, result, subset, 0);
@@ -15,8 +14,6 @@ class Solution {
 
         if(i > nums.length-1){
             if(!result.contains(subset))
-            //System.out.println(subset);
-            //Collections.sort(subset);
             result.add(new ArrayList<>(subset));
             return;
         }
