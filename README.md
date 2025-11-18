@@ -18,6 +18,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
