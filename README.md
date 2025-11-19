@@ -14,6 +14,7 @@ Solutions to LeetCode problems.
 | [0040-combination-sum-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
 ## Backtracking
@@ -25,6 +26,7 @@ Solutions to LeetCode problems.
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -35,8 +37,17 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
