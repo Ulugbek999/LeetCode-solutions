@@ -12,9 +12,11 @@ class Solution {
 
     public void backtrack(int[] nums, List<List<Integer>> result, List<Integer> subset, int i){
 
-        if(i > nums.length-1){
-            if(!result.contains(subset))
-            result.add(new ArrayList<>(subset));
+        if(i >= nums.length){
+            if(!result.contains(new ArrayList<>(subset))){
+                result.add(new ArrayList<>(subset));
+            }
+
             return;
         }
 
@@ -22,7 +24,6 @@ class Solution {
         backtrack(nums, result, subset, i+1);
         subset.remove(subset.size() - 1);
         backtrack(nums, result, subset, i+1);
-
 
 
     }
