@@ -10,7 +10,6 @@ class Solution {
     }
 
     private void backtrack(List<List<Integer>> result, List<Integer> subset, int target, int counter, int[] candidates){
-        System.out.println(subset);
         if(target == 0){
             
             
