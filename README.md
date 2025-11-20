@@ -28,6 +28,7 @@ Solutions to LeetCode problems.
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,10 +39,12 @@ Solutions to LeetCode problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
