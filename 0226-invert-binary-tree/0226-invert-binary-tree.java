@@ -15,18 +15,18 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-
         if(root == null) return null;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        while(!stack.isEmpty()){
+            TreeNode current = stack.pop();
+            if(current.left != null) stack.push(current.left);
+            if(current.right != null) stack.push(current.right);
 
-        if(root.left != null) invertTree(root.left);
-        if(root.right != null) invertTree(root.right);
-
-        TreeNode temp = root.left;
-        root.left = root.right;
-        root.right = temp;
-
-
+            TreeNode temp = current.left;
+            current.left = current.right;
+            current.right = temp;
+        }
         return root;
-
     }
 }
