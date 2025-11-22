@@ -55,6 +55,7 @@ Solutions to LeetCode problems.
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -78,4 +80,17 @@ Solutions to LeetCode problems.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
