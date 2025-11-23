@@ -10,6 +10,7 @@ Solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
@@ -93,4 +94,12 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
