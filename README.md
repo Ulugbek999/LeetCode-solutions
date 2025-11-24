@@ -21,6 +21,7 @@ Solutions to LeetCode problems.
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,4 +110,12 @@ Solutions to LeetCode problems.
 | [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+## Counting
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
