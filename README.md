@@ -10,6 +10,7 @@ Solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
@@ -44,6 +45,7 @@ Solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
@@ -118,4 +120,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
