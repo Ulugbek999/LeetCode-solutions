@@ -2,65 +2,74 @@ class Solution {
 
     public int[] findRedundantConnection(int[][] edges) {
 
-        int[] par = new int[edges.length + 1];
+        int[] parent = new int[edges.length + 1];
         int[] rank = new int[edges.length+1];
-        for(int i = 0; i<par.length; i++){
-            par[i] = i;
-            rank[i] = 1;;
+        for(int i = 0; i <= edges.length; i++){
+            parent[i] = i;
+            rank[i] = 1;
         }
-
-        // for(int i = 0; i<par.length; i++){
-        //     System.out.print(par[i] + " ");
-        // }
-
-        // for(int i = 0; i<par.length; i++){
-        //     System.out.print(rank[i] + " ");
-        // }
 
         for(int[] edge : edges){
-            if(!union(par, rank, edge[0], edge[1])){
-                return new int[]{edge[0], edge[1]};
+            int a = edge[0];
+            int b = edge[1];
+            if(!union(parent, rank, a, b)){
+                return new int[]{a, b};
             }
+
+
         }
+        // int[] test = {1, 2, 2, 1};
+        // int n = 3;
+        // System.out.println(find(test, n));
+
+
         return new int[0];
     }
+    //[1, 2, 2, 2]
+    //[0, 1, 2, 3]
+
+
 
     //using union find or disjoint set union algorithm to detect cycles.
+    //find function returns a parent: - a parent of a node should be equal to the value of the node itself
     private int find(int[] par, int n){
-        int p = par[n];
-        while(p != par[p]){
-            par[p] = par[par[p]];
-            p = par[p];
-        }
+        
         // for(int i = 0; i<par.length; i++){
-        //     System.out.print(par[i] + " ");
+        //     System.out.print(par[i] + " " );
         // }
         // System.out.println();
 
-        return p;
+        while(n != par[n]){
+            n = par[par[n]];
+        }
+
+        return n;
     }
 
+    //check if two numbers are in the same set, if so that means that there is probably a cycle:
     private boolean union(int[] par, int[] rank, int n1, int n2){
-        int p1 = find(par, n1);
-        int p2 = find(par, n2);
+        
+        int a = find(par, n1);
+        int b = find(par, n2);
 
-        if(p1 == p2){
-            return false; // they are in the same set
+        if(a == b){
+            return false;
         }
-
-        if(rank[p1] > rank[p2]){
-            par[p2] = p1;
-            rank[p1] += rank[p2]; //union them and add the ranks together
+        if(rank[a] > rank[b]){
+            par[b] = par[a];
+            rank[a] += rank[b];
         }else{
-            par[p1] = p2;
-            rank[p2] += rank[p1];
+            rank[b] += rank[a];
+            par[b] = par[a];
         }
 
-        // for(int i = 0; i<rank.length; i++){
-        //     System.out.print(rank[i]);
+        // for(int i = 0; i<par.length; i++){
+        //     System.out.print(rank[i] + " " );
         // }
         // System.out.println();
-
+        
         return true;
     }
+
+
 }
