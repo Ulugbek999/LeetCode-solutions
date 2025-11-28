@@ -26,6 +26,7 @@ Solutions to LeetCode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Backtracking
 |  |
@@ -107,6 +108,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -128,6 +130,7 @@ Solutions to LeetCode problems.
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -161,4 +164,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
