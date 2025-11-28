@@ -168,4 +168,12 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
