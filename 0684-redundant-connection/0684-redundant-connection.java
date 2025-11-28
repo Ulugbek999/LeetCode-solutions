@@ -60,7 +60,7 @@ class Solution {
             rank[a] += rank[b];
         }else{
             rank[b] += rank[a];
-            par[b] = par[a];
+            par[a] = par[b];
         }
 
         // for(int i = 0; i<par.length; i++){
