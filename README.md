@@ -120,6 +120,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
+| [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -173,9 +174,15 @@ Solutions to LeetCode problems.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
