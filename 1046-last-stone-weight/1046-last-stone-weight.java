@@ -18,7 +18,7 @@ class Solution {
             }
         }
         queue.offer(0);
-        return queue.peek();
+        return queue.poll();
         
     }
 }
