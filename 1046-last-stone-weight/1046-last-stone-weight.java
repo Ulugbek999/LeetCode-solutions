@@ -13,7 +13,7 @@ class Solution {
             if(heavierStone == lighterStone){
                 continue;
             }else{
-                val = Math.abs(heavierStone - lighterStone);
+                val = heavierStone - lighterStone;
                 queue.offer(val);
             }
         }
