@@ -29,6 +29,7 @@ Solutions to LeetCode problems.
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
@@ -125,6 +126,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
@@ -135,6 +137,7 @@ Solutions to LeetCode problems.
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Solutions to LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -164,6 +168,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
@@ -217,4 +222,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
