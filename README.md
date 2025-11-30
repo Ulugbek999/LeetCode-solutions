@@ -20,6 +20,7 @@ Solutions to LeetCode problems.
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
@@ -131,6 +132,7 @@ Solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
