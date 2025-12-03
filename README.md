@@ -7,6 +7,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
@@ -245,4 +247,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
