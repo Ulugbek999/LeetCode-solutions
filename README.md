@@ -78,6 +78,7 @@ Solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
@@ -99,6 +100,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -108,6 +110,7 @@ Solutions to LeetCode problems.
 | [0127-word-ladder](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
