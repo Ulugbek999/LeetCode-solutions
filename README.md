@@ -37,6 +37,7 @@ Solutions to LeetCode problems.
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Backtracking
 |  |
@@ -208,10 +209,12 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Counting Sort
 |  |
 | ------- |
@@ -258,4 +261,8 @@ Solutions to LeetCode problems.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
