@@ -270,4 +270,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
