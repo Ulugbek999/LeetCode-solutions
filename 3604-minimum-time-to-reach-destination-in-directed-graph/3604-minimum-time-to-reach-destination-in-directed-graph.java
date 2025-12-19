@@ -1,8 +1,6 @@
 class Solution {
     public int minTime(int n, int[][] edges) {
-
-
-
+        
         int[] dist = new int[n];
         Arrays.fill(dist, Integer.MAX_VALUE);
         dist[0] = 0;
@@ -28,7 +26,6 @@ class Solution {
             int[] curr = pq.poll();
             int u = curr[0];
             int timeStart = curr[1];
-
             if(timeStart > dist[u]) continue;
 
             for(int[] edge : graph[u]){
@@ -52,12 +49,9 @@ class Solution {
                     dist[v] = newTime;
                     pq.offer(new int[]{v, newTime});
                 }
-
             }
         }
 
-
         return dist[n-1] == Integer.MAX_VALUE ? -1 : dist[n-1];
-        
     }
 }
