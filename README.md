@@ -85,6 +85,7 @@ Solutions to LeetCode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -119,6 +120,7 @@ Solutions to LeetCode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Solutions to LeetCode problems.
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -221,6 +224,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Counting Sort
 |  |
@@ -278,4 +282,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0175-combine-two-tables) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
