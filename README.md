@@ -205,6 +205,7 @@ Solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Solutions to LeetCode problems.
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Counting Sort
 |  |
 | ------- |
@@ -286,4 +288,5 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 <!---LeetCode Topics End-->
