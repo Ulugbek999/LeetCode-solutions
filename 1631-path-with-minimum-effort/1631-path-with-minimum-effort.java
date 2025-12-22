@@ -1,36 +1,40 @@
 class Solution {
 
-    //int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
     public int minimumEffortPath(int[][] heights) {
-        
-        Queue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0]-b[0]);
-        boolean[][] visited = new boolean[heights.length][heights[0].length];
-        minHeap.add(new int[]{0, 0, 0});
         int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+        Queue<int[]> queue = new PriorityQueue<>(Comparator.comparing((int[] arr) -> arr[2]));
+        boolean[][] visited = new boolean[heights.length][heights[0].length];
+        
 
-        while(minHeap.isEmpty() == false){
-            int[] current = minHeap.poll();
-            int effort = current[0];
-            int x = current[1];
-            int y = current[2];
 
-            if(x == heights.length - 1 && y == heights[0].length-1) return effort;
+        queue.offer(new int[]{0, 0, 0});
+
+        while(!queue.isEmpty()){
+            int[] curr = queue.poll();
+            int x = curr[0];
+            int y = curr[1];
+            int effort = curr[2];
 
             if(visited[x][y] == true){
                 continue;
+            }else{
+                visited[x][y] = true;
             }
-            //mark it as true if not visited.
-            visited[x][y] = true;
-            for(int[] dir : directions){
-                int newX = dir[0] + x;
-                int newY = dir[1] + y;
 
-                if(newX < heights.length && newY < heights[0].length && newX >= 0 && newY >= 0 ){
-                    int NewEffort = Math.max(effort, Math.abs(heights[newX][newY]-heights[x][y]));
-                    minHeap.offer(new int[]{NewEffort, newX, newY});
-                }   
+            if(x == heights.length-1 && y == heights[0].length-1) return effort;
+
+            for(int[] dir : directions){
+                int newX = x + dir[0];
+                int newY = y + dir[1];
+
+                if(newX >= 0 && newY >= 0 && newX < heights.length && newY < heights[0].length){
+
+                    int newEffort = Math.max(effort, Math.abs(heights[x][y] - heights[newX][newY]));
+                    queue.offer(new int[]{newX, newY, newEffort});
+                }
             }
+
         }
 
         return - 1;
