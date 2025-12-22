@@ -1,57 +1,57 @@
 class Solution {
     public int minTime(int n, int[][] edges) {
-        
-        int[] dist = new int[n];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        dist[0] = 0;
+
+        int[] distances = new int[n];
+        Arrays.fill(distances, Integer.MAX_VALUE);
+        distances[0] = 0;
+
         List<int[]>[] graph = new ArrayList[n];
-
-        for(int i = 0; i<graph.length; i++){
-            graph[i] = new ArrayList<>();
-        }
         
-        for(int[] subArr : edges){
-            int v = subArr[1];
-            int timeStart = subArr[2];
-            int timeEnd = subArr[3];
-            graph[subArr[0]].add(new int[]{v, timeStart, timeEnd});
+        for(int i = 0; i<n; i++){
+            graph[i] = new ArrayList<>();
+        }        
+        for(int[] edge : edges){
+            graph[edge[0]].add(new int[]{edge[1], edge[2], edge[3]});
         }
 
-        Comparator<int[]> sorter = Comparator.comparing((int[] arr) -> arr[1]);
-        Queue<int[]> pq = new PriorityQueue<>(sorter);
+        Queue<int[]> queue = new PriorityQueue<>(Comparator.comparing((int[] arr) -> arr[1]));
+        queue.offer(new int[]{0, 0});
 
-        pq.offer(new int[]{0, 0});
-
-        while(pq.isEmpty() == false){
-            int[] curr = pq.poll();
+        while(!queue.isEmpty()){
+            int[] curr = queue.poll();
             int u = curr[0];
-            int timeStart = curr[1];
-            if(timeStart > dist[u]) continue;
-
-            for(int[] edge : graph[u]){
+            int time = curr[1];
+            if(time > distances[u]) continue;
+    
+            for(int[] edge: graph[u]){
 
                 int v = edge[0];
                 int start = edge[1];
                 int end = edge[2];
 
-                if(timeStart > end){
+                if(time > end){
                     continue;
                 }
 
                 int newTime;
-                if(timeStart < start){
+
+                if(time < start){
                     newTime = start + 1;
                 }else{
-                    newTime = timeStart + 1;
+                    newTime = time + 1;
                 }
 
-                if(newTime < dist[v]){
-                    dist[v] = newTime;
-                    pq.offer(new int[]{v, newTime});
+                if(newTime < distances[v]){
+                    distances[v] = newTime;
+                    queue.offer(new int[]{v, newTime});
                 }
             }
         }
 
-        return dist[n-1] == Integer.MAX_VALUE ? -1 : dist[n-1];
+
+        return distances[distances.length-1] != Integer.MAX_VALUE ? distances[distances.length-1] : -1;
+
+
+
     }
 }
