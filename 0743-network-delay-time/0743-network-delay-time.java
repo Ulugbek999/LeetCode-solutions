@@ -3,64 +3,58 @@ class Solution {
 
     public int networkDelayTime(int[][] times, int n, int k) {
 
-        List<int[]>[] graph = new ArrayList[n+1];
 
         int[] dist = new int[n+1];
+        // Arrays.fill(dist, Integer.MAX_VALUE);
         for(int i = 1; i<=n; i++){
             dist[i] = Integer.MAX_VALUE;
         }
+        dist[k] = 0;
 
+        List<int[]>[] graph = new ArrayList[n+1];
         for(int i = 1; i<=n; i++){
             graph[i] = new ArrayList<>();
         }
-        //               1             2 
-        //graph = {[{2,2}, {3, 3}], [{1, 1}, {3, 1}]} -> this is what graph looks like
-
-        for(int[] subArr : times){
-            graph[subArr[0]].add(new int[]{subArr[1], subArr[2]});
+        for(int[] time : times){
+            graph[time[0]].add(new int[]{time[1], time[2]});
         }
 
-        dist[k] = 0;
-
-        Comparator<int[]> customSort = Comparator.comparing((int[] arr) -> arr[1]);
-        Queue<int[]> queue = new PriorityQueue<>(customSort);
-
-        queue.offer(new int[]{k, 0});
-
-        while(!queue.isEmpty()){
-            int[] curr = queue.poll();
+        Queue<int[]> pq = new PriorityQueue<>(Comparator.comparing((int[] arr) -> arr[1]));
+        pq.offer(new int[]{k, 0});
+        while(!pq.isEmpty()){
+            int[] curr = pq.poll();
             int u = curr[0];
             int d = curr[1];
 
-            for(int[] subArr : graph[u]){
-                int v = subArr[0];
-                int newDist = d + subArr[1];//the dist to that vertex;
+
+            
+            for(int[] edge : graph[u]){
+                int v = edge[0];
+                int t = edge[1];
+                int newDist = d + t;
+
                 if(newDist < dist[v]){
                     dist[v] = newDist;
-                    //and we travel there:
-                    queue.offer(new int[]{v, newDist});
+                    pq.offer(new int[]{v, newDist});
                 }
+
             }
         }
 
-
-        // for(int distance : dist){
-        //     System.out.println(distance);
-        // }
-        int result = 0;
-        for(int num : dist){
-            if(num == Integer.MAX_VALUE) return -1;
-
-            result = Math.max(result, num);
-        }
-
+        int maxVal = 0;
         
 
-        return result;
+        for(int d : dist){
+            // System.out.println(d);
+            if(d == Integer.MAX_VALUE) return -1;
+
+            maxVal = Math.max(maxVal, d);
+        }
+
+
+
+        return maxVal;
+
 
     }
-
-    
-
-
 }
