@@ -38,6 +38,7 @@ Solutions to LeetCode problems.
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Backtracking
 |  |
@@ -89,11 +90,13 @@ Solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Solutions to LeetCode problems.
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +161,7 @@ Solutions to LeetCode problems.
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +214,7 @@ Solutions to LeetCode problems.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Bucket Sort
 |  |
@@ -225,6 +231,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0684-redundant-connection](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
