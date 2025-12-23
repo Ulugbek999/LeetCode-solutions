@@ -20,6 +20,7 @@ Solutions to LeetCode problems.
 | [0040-combination-sum-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -74,6 +75,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
@@ -145,6 +147,7 @@ Solutions to LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
