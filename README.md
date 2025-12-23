@@ -21,6 +21,7 @@ Solutions to LeetCode problems.
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -76,6 +77,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
@@ -155,6 +157,7 @@ Solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
