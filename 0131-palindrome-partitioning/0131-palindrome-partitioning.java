@@ -1,34 +1,44 @@
-public class Solution {
-
+class Solution {
     public List<List<String>> partition(String s) {
-        List<List<String>> res = new ArrayList<>();
-        List<String> part = new ArrayList<>();
-        dfs(0, s, part, res);
-        return res;
+
+        List<List<String>> result = new ArrayList<>();
+        backtrack(result, new ArrayList<>(), 0, s);
+
+        return result;
+        
     }
 
-    private void dfs(int i, String s, List<String> part, List<List<String>> res) {
-        if (i >= s.length()) {
-            res.add(new ArrayList<>(part));
+    private void backtrack(List<List<String>> result, List<String> part, int i, String s){
+
+        if(i >= s.length()){
+            result.add(new ArrayList<>(part));
             return;
         }
-        for (int j = i; j < s.length(); j++) {
-            if (isPali(s, i, j)) {
-                part.add(s.substring(i, j + 1));
-                dfs(j + 1, s, part, res);
+
+        for(int j = i; j<s.length(); j++){
+            if(isPalindrome(s, i, j)){
+                part.add(s.substring(i, j+1));
+                backtrack(result, part, j+1, s);
                 part.remove(part.size() - 1);
             }
         }
     }
 
-    private boolean isPali(String s, int l, int r) {
-        while (l < r) {
-            if (s.charAt(l) != s.charAt(r)) {
+
+    private boolean isPalindrome(String s, int l, int r){
+        
+        while(l < r){
+            if(s.charAt(l) != s.charAt(r)){
                 return false;
+                
+            }else{
+                l++;
+                r--;
             }
-            l++;
-            r--;
         }
+
         return true;
     }
+
+
 }
