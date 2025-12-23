@@ -1,45 +1,58 @@
 class Solution {
     public int swimInWater(int[][] grid) {
-        int n = grid.length;
-        boolean[][] visited = new boolean[n][n];
-        int minH = grid[0][0], maxH = grid[0][0];
-        for(int row = 0; row < n; row++){
-            for(int col = 0; col<n; col++){
-                maxH = Math.max(maxH, grid[row][col]);
-                minH = Math.min(minH, grid[row][col]);
+    
+
+        int minHeight = 0;
+        int maxHeight = 0;
+        for(int i = 0; i<grid.length; i++){
+            for(int j = 0; j<grid[0].length; j++){
+                minHeight = Math.min(grid[i][j], minHeight);
+                maxHeight = Math.max(grid[i][j], maxHeight);
             }
         }
 
-        int l = minH, r = maxH;
+        boolean[][] visited = new boolean[grid.length][grid.length];
+
+        int l = minHeight;
+        int r = maxHeight;
+
         while(l < r){
-            int m = l + (r-l)/2;
-            if(dfs(grid, visited, 0, 0, m)){
-                r = m;
+
+            int mid = l + (r-l)/2;
+            
+            if(dfs(grid, visited, 0, 0, mid)){
+                r = mid;
             }else{
-                l = m + 1;
+                l = mid + 1;
             }
-            for(int row = 0; row < n; row++){
-                Arrays.fill(visited[row], false);
+
+            for(int i = 0; i<visited.length; i++){
+                for(int j = 0; j<visited[0].length; j++){
+                    visited[i][j] = false;
+                }
             }
+
         }
 
-        return r;
-
-
-
+        return l;
     }
 
+    private boolean dfs(int[][] grid, boolean[][] visited, int r, int c, int m){
 
-    private boolean dfs(int[][] grid, boolean[][] visited, int r, int c, int t){
-        if(r < 0 || c < 0 || r>=grid.length || c >= grid.length || visited[r][c] || grid[r][c] > t){
+        if(r >= grid.length || c >= grid.length || r < 0 || c < 0 || visited[r][c] == true || grid[r][c] > m){
             return false;
         }
 
-        if(r == grid.length - 1 && c == grid.length - 1){
-            return true;//valid path
-        }
         visited[r][c] = true;
-        return dfs(grid, visited, r + 1, c, t) || dfs(grid, visited, r-1, c, t) || dfs(grid, visited, r, c+1, t) || dfs(grid, visited, r, c-1, t);
+
+        if(r == grid.length-1 && c == grid.length - 1){
+            return true;
+        }
+
+        return dfs(grid, visited, r+1, c, m) || dfs(grid, visited, r-1, c, m) || dfs(grid, visited, r, c+1, m) || dfs(grid, visited, r, c-1, m);
+
+
+
     }
 
 
