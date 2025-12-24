@@ -12,14 +12,13 @@ class Solution {
             
             int farthest = 0;
 
-            for(int i = left; i<=right; i++){
+            for(int i = left; i <= right; i++){
                 farthest = Math.max(farthest, i + nums[i]);
             }
-
-            left = right + 1;
+            left = right+1;
             right = farthest;
             res++;
-
+            
         }
 
         return res;
