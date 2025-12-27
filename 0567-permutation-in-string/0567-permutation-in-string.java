@@ -33,11 +33,12 @@ class Solution {
                 }     
             }
             
-            
+  
             
             while(need == 0){
                 
-                if(right - left + 1 == s1.length()) return true;  
+              if(right - left + 1 == s1.length()) return true;  
+              
 
                 char leftChar = s2.charAt(left);
                 
@@ -47,9 +48,8 @@ class Solution {
                         need += 1;
                         
                     }
-                        
-             
                 }
+                
                 left++;
             }
         }
