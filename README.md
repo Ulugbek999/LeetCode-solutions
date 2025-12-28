@@ -43,6 +43,7 @@ Solutions to LeetCode problems.
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -128,6 +129,7 @@ Solutions to LeetCode problems.
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Tree
 |  |
@@ -223,6 +225,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -323,6 +326,7 @@ Solutions to LeetCode problems.
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Memoization
 |  |
 | ------- |
