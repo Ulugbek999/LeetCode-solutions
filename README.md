@@ -26,6 +26,7 @@ Solutions to LeetCode problems.
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -208,6 +209,7 @@ Solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -221,6 +223,7 @@ Solutions to LeetCode problems.
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
