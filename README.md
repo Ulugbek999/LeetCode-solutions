@@ -44,6 +44,7 @@ Solutions to LeetCode problems.
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -175,6 +176,7 @@ Solutions to LeetCode problems.
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -228,6 +230,7 @@ Solutions to LeetCode problems.
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
@@ -261,6 +264,7 @@ Solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -269,6 +273,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -294,6 +299,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -362,4 +368,12 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
