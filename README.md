@@ -17,6 +17,7 @@ Solutions to LeetCode problems.
 | [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0045-jump-game-ii) |
@@ -201,6 +202,7 @@ Solutions to LeetCode problems.
 | [0015-3sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
