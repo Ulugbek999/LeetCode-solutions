@@ -35,6 +35,7 @@ Solutions to LeetCode problems.
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -136,6 +137,7 @@ Solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0355-design-twitter) |
@@ -233,6 +235,7 @@ Solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -247,6 +250,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
