@@ -134,6 +134,7 @@ Solutions to LeetCode problems.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -183,6 +184,7 @@ Solutions to LeetCode problems.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -219,6 +222,7 @@ Solutions to LeetCode problems.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
