@@ -125,6 +125,7 @@ Solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -178,6 +179,7 @@ Solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -218,6 +220,7 @@ Solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -254,6 +257,7 @@ Solutions to LeetCode problems.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
