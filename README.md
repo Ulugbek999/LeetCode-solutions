@@ -116,6 +116,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -167,6 +168,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -206,6 +208,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -249,6 +252,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
