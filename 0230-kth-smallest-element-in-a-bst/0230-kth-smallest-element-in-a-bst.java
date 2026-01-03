@@ -16,24 +16,20 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
 
-        PriorityQueue<Integer> queue = new PriorityQueue<>(Comparator.comparingInt(l -> l));
-        dfs(root, queue);
-        int result =0 ;
-        for(int i = 0; i<k; i++){
-            result = queue.poll();
-        }
+        List<Integer> list = new ArrayList<>();
+        dfs(root, list);
 
-        return result;
+
+        return list.get(k-1);
     }
 
-    public void dfs(TreeNode root, Queue<Integer> queue){
+    public void dfs(TreeNode root, List<Integer> list){
         if(root == null){
             return;
         }
-
-        queue.add(root.val);
-        dfs(root.left, queue);
-        dfs(root.right, queue);
+        dfs(root.left, list);
+        list.add(root.val);
+        dfs(root.right, list);
         return;
     }
 }
