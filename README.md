@@ -108,6 +108,7 @@ Solutions to LeetCode problems.
 | [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -122,6 +123,7 @@ Solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
@@ -176,6 +178,7 @@ Solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
@@ -217,6 +220,7 @@ Solutions to LeetCode problems.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
