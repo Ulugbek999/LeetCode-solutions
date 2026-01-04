@@ -15,21 +15,19 @@
  */
 class Solution {
     public int maxPathSum(TreeNode root) {
-        int[] result = new int[]{root.val};
-        dfs(root, result);
-        return result[0];
+        int[] res = new int[]{root.val};
+        dfs(root, res);
+        return res[0];
     }
 
     private int dfs(TreeNode node, int[] res){
         if(node == null){
-            return 0;    
+            return 0;
         }
+
         int left = Math.max(dfs(node.left, res), 0);
         int right = Math.max(dfs(node.right, res), 0);
-        res[0] = Math.max(left + right + node.val, res[0]);
-
+        res[0] = Math.max(left + node.val + right, res[0]);
         return node.val + Math.max(left, right);
     }
-
-
 }
