@@ -1,36 +1,35 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        List<Integer> subset = new ArrayList<>();
-        backtrack(result, subset, nums);
-        return result;
+        List<List<Integer>> list = new ArrayList<>();
+        backtrack(list, nums, 0, new ArrayList<>());
+        return list;
     }
 
-    private List<Integer> available(List<Integer> subset, int[] nums){
+    public List<Integer> helper(int[] nums, List<Integer> current){
         List<Integer> result = new ArrayList<>();
-
         for(int num : nums){
-            if(subset.contains(num) == false){
+            if(current.contains(num) == false){
                 result.add(num);
             }
         }
-
         return result;
+
     }
 
+    public void backtrack(List<List<Integer>> list, int[] nums, int i, List<Integer> sub){
 
-    private void backtrack(List<List<Integer>> result, List<Integer> subset, int[] nums){
-
-        //System.out.println(subset);
-        if(subset.size() == nums.length){
-            result.add(new ArrayList<>(subset));
+        if(sub.size() == nums.length){
+            list.add(new ArrayList<>(sub));
             return;
         }
 
-        for(Integer num : available(subset, nums)){
-            subset.add(num);
-            backtrack(result, subset, nums);
-            subset.remove(subset.size() - 1);
+        if(i >= nums.length) return;
+
+
+        for(int num : helper(nums, sub)){
+            sub.add(num);
+            backtrack(list, nums, i+1, sub);
+            sub.remove(sub.size() - 1);
         }
 
 
