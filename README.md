@@ -99,6 +99,7 @@ Solutions to LeetCode problems.
 | [0344-reverse-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [1768-merge-strings-alternately](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ Solutions to LeetCode problems.
 | [0560-subarray-sum-equals-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -255,6 +257,7 @@ Solutions to LeetCode problems.
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -311,6 +314,7 @@ Solutions to LeetCode problems.
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -321,6 +325,7 @@ Solutions to LeetCode problems.
 | [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 ## Prefix Sum
@@ -348,6 +353,7 @@ Solutions to LeetCode problems.
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
