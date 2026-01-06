@@ -2,29 +2,27 @@ class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
 
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> subset = new ArrayList<>();
+        List<Integer> sub = new ArrayList<>();
         Arrays.sort(nums);
-        backtrack(nums, result, subset, 0);
-        return result;
         
+        backtrack(result, sub, nums, 0);
+        
+        return result;
     }
 
-
-    public void backtrack(int[] nums, List<List<Integer>> result, List<Integer> subset, int i){
+    private void backtrack(List<List<Integer>> result, List<Integer> subset, int[] nums, int i){
 
         if(i >= nums.length){
-            if(!result.contains(new ArrayList<>(subset))){
+            if(result.contains(subset) == false){
                 result.add(new ArrayList<>(subset));
             }
-
             return;
         }
 
+
         subset.add(nums[i]);
-        backtrack(nums, result, subset, i+1);
+        backtrack(result, subset, nums, i+1);
         subset.remove(subset.size() - 1);
-        backtrack(nums, result, subset, i+1);
-
-
+        backtrack(result, subset, nums, i+1);
     }
 }
