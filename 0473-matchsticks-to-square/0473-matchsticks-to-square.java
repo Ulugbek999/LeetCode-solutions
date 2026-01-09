@@ -14,7 +14,7 @@ public class Solution {
         // for(int num : sides){
         //     System.out.print(num + " ");
         // }System.out.println();
-        
+
         if (i == matchsticks.length) {
             return sides[0] == sides[1] && sides[1] == sides[2] && sides[2] == sides[3];
         }
@@ -27,7 +27,7 @@ public class Solution {
             }
 
 
-            //if(sides[j] == 0) break;
+            if(sides[j] == 0) break;
         }
         return false;
     }
