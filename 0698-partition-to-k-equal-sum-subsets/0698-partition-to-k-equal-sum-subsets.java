@@ -15,9 +15,9 @@ class Solution {
 
 
     private boolean dfs(int[] nums, int[] sub,int k, int i, int limit){
-        for(int num : sub){
-            System.out.print(num + " ");
-        }System.out.println();
+        // for(int num : sub){
+        //     System.out.print(num + " ");
+        // }System.out.println();
 
         if(i == nums.length){
             return true;
@@ -29,10 +29,7 @@ class Solution {
                 if(dfs(nums, sub, k, i+1, limit)) return true;
                 sub[j] -= nums[i];
             }
-            // if(sub[j] == 0){
-            //     System.out.println("The j = " + j);
-            //     break;
-            // }
+
             if(sub[j] == 0) break;
         }
         return false;
