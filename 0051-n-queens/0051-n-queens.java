@@ -22,13 +22,13 @@ class Solution {
 
     private void backtrack(int row, char[][] board, List<List<String>> result){
 
-        for(int i = 0; i<board.length; i++){
-            for(int j = 0; j<board[0].length; j++){
-                System.out.print(board[i][j] + " ");
-            }
-            System.out.println();
-        }
-        System.out.println();
+        // for(int i = 0; i<board.length; i++){
+        //     for(int j = 0; j<board[0].length; j++){
+        //         System.out.print(board[i][j] + " ");
+        //     }
+        //     System.out.println();
+        // }
+        // System.out.println();
 
               
         if(row == board.length){
