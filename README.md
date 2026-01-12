@@ -115,6 +115,7 @@ Solutions to LeetCode problems.
 | [0344-reverse-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
@@ -282,6 +283,7 @@ Solutions to LeetCode problems.
 | [0045-jump-game-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
@@ -452,6 +454,7 @@ Solutions to LeetCode problems.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -526,4 +529,8 @@ Solutions to LeetCode problems.
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
