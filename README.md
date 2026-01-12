@@ -37,6 +37,7 @@ Solutions to LeetCode problems.
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
@@ -87,6 +88,7 @@ Solutions to LeetCode problems.
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
@@ -108,6 +110,7 @@ Solutions to LeetCode problems.
 | [0127-word-ladder](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -127,6 +130,7 @@ Solutions to LeetCode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -176,6 +180,7 @@ Solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -366,6 +371,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -471,6 +477,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Minimum Spanning Tree
