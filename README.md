@@ -8,6 +8,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+| [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Array
@@ -116,6 +117,7 @@ Solutions to LeetCode problems.
 | [0383-ransom-note](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
@@ -507,6 +509,7 @@ Solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Merge Sort
 |  |
