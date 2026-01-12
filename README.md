@@ -96,6 +96,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
@@ -113,6 +114,7 @@ Solutions to LeetCode problems.
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0344-reverse-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
@@ -188,6 +190,7 @@ Solutions to LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
@@ -339,6 +342,7 @@ Solutions to LeetCode problems.
 | [0295-find-median-from-data-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
