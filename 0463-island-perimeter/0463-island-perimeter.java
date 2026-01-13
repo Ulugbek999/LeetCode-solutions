@@ -1,7 +1,5 @@
 class Solution {
 
-
-
     public int islandPerimeter(int[][] grid) {
 
         int[][] positions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
@@ -24,9 +22,6 @@ class Solution {
             int r = curr[0];
             int c = curr[1];
 
-
-            //visited[cr][cc] = true;
-
             for(int[] pos : positions){
 
                 int cr = r + pos[0];
@@ -42,9 +37,6 @@ class Solution {
                 }
             }
         }
-
         return per;
-
-
     }
 }
