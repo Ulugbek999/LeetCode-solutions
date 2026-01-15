@@ -20,6 +20,7 @@ Solutions to LeetCode problems.
 | [0018-4sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0041-first-missing-positive) |
@@ -305,6 +306,7 @@ Solutions to LeetCode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
