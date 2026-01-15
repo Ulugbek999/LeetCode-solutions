@@ -124,6 +124,7 @@ Solutions to LeetCode problems.
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
@@ -144,6 +145,7 @@ Solutions to LeetCode problems.
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -338,6 +340,7 @@ Solutions to LeetCode problems.
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
