@@ -31,6 +31,7 @@ Solutions to LeetCode problems.
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
