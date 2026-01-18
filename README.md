@@ -74,6 +74,7 @@ Solutions to LeetCode problems.
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -529,6 +530,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
+| [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Merge Sort
 |  |
