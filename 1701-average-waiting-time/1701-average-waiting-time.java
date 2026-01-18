@@ -22,10 +22,6 @@ class Solution {
             }
         }
 
-        // for(double num : waitingTime){
-        //     System.out.println(num);
-        // }
-
         double result = Arrays.stream(waitingTime).sum()/customers.length;
 
 
