@@ -466,6 +466,7 @@ Solutions to LeetCode problems.
 | [0206-reverse-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [1669-merge-in-between-linked-lists](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
