@@ -19,16 +19,8 @@ class Solution {
         
         while(left < right){
             capacity = (left + right)/2;
-            int runningSum = 0;
             int shipments = 1;
-            for(int num : weights){
-
-                if(runningSum + num > capacity){
-                    runningSum = 0;
-                    shipments++;
-                }   
-                runningSum += num;
-            }
+            shipments = check(capacity, weights, shipments);
             if(shipments > days){
                 left = capacity+1;
             }else{
@@ -40,5 +32,18 @@ class Solution {
         return left;
     }
 
-    
+    private int check(int capacity, int[] weights, int shipments){
+            int runningSum = 0;
+            
+            for(int num : weights){
+
+                if(runningSum + num > capacity){
+                    runningSum = 0;
+                    shipments++;
+                }   
+                runningSum += num;
+            }
+        return shipments;
+    }
+
 }
