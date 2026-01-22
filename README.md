@@ -68,6 +68,7 @@ Solutions to LeetCode problems.
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
@@ -337,6 +338,7 @@ Solutions to LeetCode problems.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -361,6 +363,7 @@ Solutions to LeetCode problems.
 | [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -385,6 +388,7 @@ Solutions to LeetCode problems.
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
