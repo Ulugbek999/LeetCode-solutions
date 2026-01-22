@@ -7,6 +7,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
@@ -321,6 +322,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
