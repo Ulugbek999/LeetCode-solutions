@@ -327,6 +327,7 @@ Solutions to LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -575,4 +576,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
