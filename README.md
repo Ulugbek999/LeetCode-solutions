@@ -80,6 +80,7 @@ Solutions to LeetCode problems.
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
@@ -227,6 +228,7 @@ Solutions to LeetCode problems.
 | [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Tree
 |  |
@@ -395,6 +397,7 @@ Solutions to LeetCode problems.
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
