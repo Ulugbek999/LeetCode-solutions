@@ -139,6 +139,7 @@ Solutions to LeetCode problems.
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0767-reorganize-string) |
 | [1768-merge-strings-alternately](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3110-score-of-a-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
