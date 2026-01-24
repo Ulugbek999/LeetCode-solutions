@@ -64,6 +64,7 @@ Solutions to LeetCode problems.
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
@@ -506,6 +507,7 @@ Solutions to LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -562,6 +564,7 @@ Solutions to LeetCode problems.
 | ------- |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0682-baseball-game) |
 | [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 ## Merge Sort
