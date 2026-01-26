@@ -88,6 +88,7 @@ Solutions to LeetCode problems.
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3206-alternating-groups-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3206-alternating-groups-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -542,6 +543,7 @@ Solutions to LeetCode problems.
 | [1052-grumpy-bookstore-owner](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1652-defuse-the-bomb](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3206-alternating-groups-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3206-alternating-groups-i) |
 ## Memoization
 |  |
 | ------- |
