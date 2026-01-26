@@ -143,6 +143,7 @@ Solutions to LeetCode problems.
 | [1768-merge-strings-alternately](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3110-score-of-a-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -231,6 +232,7 @@ Solutions to LeetCode problems.
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Tree
 |  |
 | ------- |
@@ -537,6 +539,7 @@ Solutions to LeetCode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1652-defuse-the-bomb](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Memoization
 |  |
 | ------- |
