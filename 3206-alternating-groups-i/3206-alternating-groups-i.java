@@ -3,18 +3,19 @@ class Solution {
         
         
         int result = 0;
-        int n = colors.length;
-        //int right = 3;
         
-        for(int mid = 0; mid < n; mid++){
+        if(colors.length >= 3){
+            if(colors[0] != colors[1] && colors[colors.length - 1] != colors[0]){
+                    result+= 1;
+                }
+        }
+        
+        for(int i = 1; i < colors.length; i++){
             
-            int left = colors[((mid-1)+n)%n];
-            int curr = colors[mid];
-            int right = colors[(mid+1)%n];
+            if(colors[i-1] != colors[i] && colors[i] != colors[(i+1)%colors.length]){
+                result+=1;
+            }
             
-            if(curr != left && curr != right){
-                result++;
-            } 
         }
             
         return result;
