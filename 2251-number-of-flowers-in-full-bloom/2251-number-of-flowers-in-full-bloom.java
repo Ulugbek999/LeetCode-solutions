@@ -25,7 +25,7 @@ class Solution {
             result[j++] = starts - ends;
 
 
-            System.out.println(starts + "   " + ends);
+            //System.out.println(starts + "   " + ends);
 
 
 
