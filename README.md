@@ -49,6 +49,7 @@ Solutions to LeetCode problems.
 | [0228-summary-ranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -165,6 +166,7 @@ Solutions to LeetCode problems.
 | [0132-palindrome-partitioning-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
@@ -345,6 +347,7 @@ Solutions to LeetCode problems.
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
