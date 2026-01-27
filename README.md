@@ -57,6 +57,7 @@ Solutions to LeetCode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
@@ -136,6 +137,7 @@ Solutions to LeetCode problems.
 | [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0541-reverse-string-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
@@ -163,6 +165,7 @@ Solutions to LeetCode problems.
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
@@ -186,6 +189,7 @@ Solutions to LeetCode problems.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -394,6 +398,7 @@ Solutions to LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -433,6 +438,7 @@ Solutions to LeetCode problems.
 | [0014-longest-common-prefix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
