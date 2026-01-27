@@ -1,32 +1,29 @@
-public class Solution {
-
-    private Map<Integer, Boolean> memo;
-
+class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         
-        memo = new HashMap<>();
-        memo.put(s.length(), true);
-        return dfs(s, wordDict, 0);
-    }
 
-    private boolean dfs(String s, List<String> wordDict, int i){
-        
 
-        if(memo.containsKey(i)){
-            return memo.get(i);
-        }
 
-        for(String w : wordDict){
-            if(i + w.length() <= s.length() && s.substring(i, i+w.length()).equals(w)){
-                //System.out.println(s.substring(i, i+w.length()));
-                if(dfs(s, wordDict, i+w.length())){
-                    memo.put(i, true);
-                    return true;
+        boolean[] dp = new boolean[s.length() + 1];
+        dp[s.length()] = true;
+
+        for(int i = s.length()-1; i>=0;i--){
+
+
+            for(String word : wordDict){
+
+                if(i + word.length() <= s.length() && s.substring(i, i+word.length()).equals(word)){
+                    dp[i] = dp[i+word.length()];
                 }
+
+                if(dp[i] == true) break;
+
             }
+
         }
 
-        memo.put(i, false);
-        return false;
+        return dp[0];
+
+
     }
 }
