@@ -20,7 +20,7 @@ class Solution {
             for(int i = word.length()-1; i >= 0; i--){
 
 
-                for(int j = i + 1; j<=word.length() && j- i <= maxLen; j++){
+                for(int j = i + 1; j<=word.length(); j++){
 
                     String sub = word.substring(i, j);
 
@@ -31,15 +31,11 @@ class Solution {
                     if(dp[i]) break;
 
                 }
-
-
             }
 
             if(dp[0] == true){
                 result.add(word);
             }
-
-
         }
 
         return result;
