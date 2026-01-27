@@ -88,6 +88,7 @@ Solutions to LeetCode problems.
 | [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3206-alternating-groups-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3206-alternating-groups-i) |
 ## Backtracking
@@ -237,6 +238,7 @@ Solutions to LeetCode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Tree
@@ -357,6 +359,7 @@ Solutions to LeetCode problems.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -408,6 +411,7 @@ Solutions to LeetCode problems.
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
@@ -432,6 +436,7 @@ Solutions to LeetCode problems.
 | [0713-subarray-product-less-than-k](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Trie
 |  |
 | ------- |
@@ -609,4 +614,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
