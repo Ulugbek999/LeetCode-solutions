@@ -23,10 +23,8 @@ class Solution {
 
     public List<Integer> postorder(Node root) {
         
-        //List<Integer> result = new ArrayList<>();
         dfs(root);
         return result;
-
     }
 
     private void dfs(Node root){
@@ -38,6 +36,5 @@ class Solution {
         }
 
         result.add(root.val);
-
     }
 }
