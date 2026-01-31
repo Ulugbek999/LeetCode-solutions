@@ -83,6 +83,7 @@ Solutions to LeetCode problems.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
