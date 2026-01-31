@@ -15,30 +15,18 @@
  */
 class Solution {
 
-    int rangeSum = 0;
-
     public int rangeSumBST(TreeNode root, int low, int high) {
-        dfs(root, low, high);
-        return rangeSum;
-
-    }
-
-
-    private void dfs(TreeNode root, int low, int high){
 
         if(root == null){
-            return;
+            return 0;
         }
-
-
-        if(root.val >= low && root.val <= high){
-            rangeSum += root.val;
+        if(root.val > high){
+            return rangeSumBST(root.left, low, high);
         }
-
-        dfs(root.left, low, high);
-        dfs(root.right, low, high);
-        
-
-
+        if(root.val < low){
+            return rangeSumBST(root.right, low, high);
+        }
+        return root.val + rangeSumBST(root.left, low, high) + 
+                          rangeSumBST(root.right, low, high);
     }
 }
