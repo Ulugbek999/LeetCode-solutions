@@ -12,6 +12,7 @@ Solutions to LeetCode problems.
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Solutions to LeetCode problems.
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3206-alternating-groups-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3206-alternating-groups-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,6 +489,7 @@ Solutions to LeetCode problems.
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Bucket Sort
 |  |
@@ -612,6 +615,7 @@ Solutions to LeetCode problems.
 | [1701-average-waiting-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
