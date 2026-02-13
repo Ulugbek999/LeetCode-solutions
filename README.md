@@ -218,6 +218,7 @@ Solutions to LeetCode problems.
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Solutions to LeetCode problems.
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ Solutions to LeetCode problems.
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
