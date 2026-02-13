@@ -213,6 +213,7 @@ Solutions to LeetCode problems.
 | [0743-network-delay-time](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0872-leaf-similar-trees](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -286,6 +287,7 @@ Solutions to LeetCode problems.
 | [0617-merge-two-binary-trees](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -336,6 +338,7 @@ Solutions to LeetCode problems.
 | [0617-merge-two-binary-trees](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
