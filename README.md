@@ -96,6 +96,7 @@ Solutions to LeetCode problems.
 | [1854-maximum-population-year](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1929-concatenation-of-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -258,6 +259,7 @@ Solutions to LeetCode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -292,6 +294,7 @@ Solutions to LeetCode problems.
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -343,6 +346,7 @@ Solutions to LeetCode problems.
 | [1325-delete-leaves-with-a-given-value](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Divide and Conquer
 |  |
