@@ -45,6 +45,7 @@ Solutions to LeetCode problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
+| [0162-find-peak-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -384,6 +385,7 @@ Solutions to LeetCode problems.
 | [0098-validate-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
