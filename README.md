@@ -10,6 +10,7 @@ Solutions to LeetCode problems.
 | [0069-sqrtx](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -392,6 +393,7 @@ Solutions to LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
