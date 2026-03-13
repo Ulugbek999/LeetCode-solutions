@@ -86,6 +86,7 @@ Solutions to LeetCode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -232,6 +233,7 @@ Solutions to LeetCode problems.
 | [0463-island-perimeter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -317,6 +319,7 @@ Solutions to LeetCode problems.
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
