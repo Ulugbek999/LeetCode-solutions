@@ -92,6 +92,7 @@ Solutions to LeetCode problems.
 | [1052-grumpy-bookstore-owner](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -189,6 +190,7 @@ Solutions to LeetCode problems.
 | [0647-palindromic-substrings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Solutions to LeetCode problems.
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0994-rotting-oranges) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
