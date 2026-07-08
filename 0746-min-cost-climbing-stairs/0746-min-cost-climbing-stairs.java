@@ -19,10 +19,6 @@ class Solution {
             );
         }
 
-        for(int num : dp){
-            System.out.print(" " + num);
-        }
-
         return dp[n];
 
     }
