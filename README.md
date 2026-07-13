@@ -13,6 +13,7 @@ Solutions to LeetCode problems.
 | [0441-arranging-coins](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -194,6 +195,7 @@ Solutions to LeetCode problems.
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -638,6 +640,7 @@ Solutions to LeetCode problems.
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
