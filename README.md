@@ -45,6 +45,7 @@ Solutions to LeetCode problems.
 | [0090-subsets-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0162-find-peak-element) |
@@ -261,6 +262,7 @@ Solutions to LeetCode problems.
 | [0041-first-missing-positive](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0169-majority-element) |
@@ -715,4 +717,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
