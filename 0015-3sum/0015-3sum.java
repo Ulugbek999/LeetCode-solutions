@@ -1,33 +1,41 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);
+
+
         List<List<Integer>> result = new ArrayList<>();
 
-        for(int a = 0; a < nums.length -2; a++){
+        Arrays.sort(nums);
 
-            if (a > 0 && nums[a] == nums[a - 1]) continue;
+        for(int i = 0; i<nums.length - 2; i++){
+            int left = i + 1;
+            int right = nums.length - 1;
+            if(i > 0 && nums[i] == nums[i-1]) continue;
 
-            int b = a + 1;
-            int c = nums.length - 1;
-
-            while(b<c){
-
-                int sum = nums[a] + nums[b] + nums[c];
-
+            while(left < right){
+                int sum = nums[i] + nums[left] + nums[right];
                 if(sum == 0){
-                    result.add(Arrays.asList(nums[a], nums[b], nums[c]));
-                    b++;
-                    c--;
-                    while(b < c && nums[b] == nums[b-1]) b++;
-                    while(b < c && nums[c] == nums[c + 1]) c--;
-                } else if(sum < 0){
-                    b++;
+                    //a triplet is found:
+                    List<Integer> list = new ArrayList<>();
+                    list.add(nums[i]);
+                    list.add(nums[left]);
+                    list.add(nums[right]);
+                    result.add(list);
+                    left++;
+                    right--;
+                    while(left < right && nums[left] == nums[left-1]){
+                        left++;
+                    }
+                    while(left < right && nums[right] == nums[right+1]){
+                        right--;
+                    }
+                }else if(sum > 0){
+                    right --;
                 }else{
-                    c--;
+                    left++;
                 }
             }
         }
 
-        return result;
+        return result;        
     }
 }
