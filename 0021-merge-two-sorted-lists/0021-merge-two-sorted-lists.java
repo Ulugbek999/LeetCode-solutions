@@ -11,40 +11,27 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
-        if(list1 == null){
-            return list2;
-        }else if(list2 == null){
-            return list1;
-        }
-
-        ListNode result = new ListNode(0);
-        ListNode prev = result;
-    
+        ListNode dummy = new ListNode(0);
+        ListNode node = dummy;
 
         while(list1 != null && list2 != null){
-
             if(list1.val <= list2.val){
-                result.next = list1;
+                node.next = list1;
                 list1 = list1.next;
-                result = result.next;
             }else{
-                result.next = list2;
-                result = result.next;
+                node.next = list2;
                 list2 = list2.next;
             }
+            node = node.next;
         }
 
-
-        if(list1 == null){
-            result.next = list2;
+        if(list1 == null && list2 != null){
+            node.next = list2;
         }else{
-            result.next = list1;
+            node.next = list1;
         }
 
-        return prev.next;
-
-
-
+        return dummy.next;
         
     }
 }
