@@ -37,6 +37,7 @@ Solutions to LeetCode problems.
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0075-sort-colors) |
@@ -249,6 +250,7 @@ Solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -684,6 +686,7 @@ Solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0682-baseball-game) |
