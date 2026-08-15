@@ -91,6 +91,7 @@ Solutions to LeetCode problems.
 | [0752-open-the-lock](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0825-friends-of-appropriate-ages) |
+| [0835-image-overlap](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -261,6 +262,7 @@ Solutions to LeetCode problems.
 | [0463-island-perimeter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
