@@ -7,6 +7,7 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0415-add-strings) |
@@ -34,6 +35,7 @@ Solutions to LeetCode problems.
 | [0045-jump-game-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0053-maximum-subarray) |
@@ -250,6 +252,7 @@ Solutions to LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
