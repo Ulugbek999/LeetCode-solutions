@@ -105,6 +105,7 @@ Solutions to LeetCode problems.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -215,6 +216,7 @@ Solutions to LeetCode problems.
 | [0746-min-cost-climbing-stairs](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Depth-First Search
 |  |
@@ -449,6 +451,7 @@ Solutions to LeetCode problems.
 | [0875-koko-eating-bananas](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -511,6 +514,7 @@ Solutions to LeetCode problems.
 | [0881-boats-to-save-people](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
