@@ -73,6 +73,7 @@ Solutions to LeetCode problems.
 | [0347-top-k-frequent-elements](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0463-island-perimeter) |
@@ -208,6 +209,7 @@ Solutions to LeetCode problems.
 | [0213-house-robber-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
@@ -758,4 +760,12 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
