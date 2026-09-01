@@ -15,6 +15,7 @@ Solutions to LeetCode problems.
 | [0509-fibonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
@@ -121,6 +122,7 @@ Solutions to LeetCode problems.
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3206-alternating-groups-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3206-alternating-groups-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -143,6 +145,7 @@ Solutions to LeetCode problems.
 | [0140-word-break-ii](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Solutions to LeetCode problems.
 | [1137-n-th-tribonacci-number](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -311,6 +315,7 @@ Solutions to LeetCode problems.
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -520,6 +525,7 @@ Solutions to LeetCode problems.
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -768,4 +774,8 @@ Solutions to LeetCode problems.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ulugbek999/LeetCode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
