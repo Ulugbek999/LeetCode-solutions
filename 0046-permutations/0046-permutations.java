@@ -1,37 +1,26 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        backtrack(list, nums, 0, new ArrayList<>());
-        return list;
-    }
 
-    public List<Integer> helper(int[] nums, List<Integer> current){
-        List<Integer> result = new ArrayList<>();
-        for(int num : nums){
-            if(current.contains(num) == false){
-                result.add(num);
-            }
-        }
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(result, new ArrayList<>(), nums);
         return result;
-
     }
 
-    public void backtrack(List<List<Integer>> list, int[] nums, int i, List<Integer> sub){
 
-        if(sub.size() == nums.length){
-            list.add(new ArrayList<>(sub));
+    private void backtrack(List<List<Integer>> result, List<Integer> sublist, int[] nums){
+
+        if(sublist.size() == nums.length){
+            result.add(new ArrayList<>(sublist));
             return;
         }
 
-        if(i >= nums.length) return;
-
-
-        for(int num : helper(nums, sub)){
-            sub.add(num);
-            backtrack(list, nums, i+1, sub);
-            sub.remove(sub.size() - 1);
+        for(int i = 0; i<nums.length; i++){
+            if(sublist.contains(nums[i])){
+                continue;
+            }
+            sublist.add(nums[i]);
+            backtrack(result, sublist, nums);
+            sublist.remove(sublist.size() - 1);
         }
-
-
     }
 }
